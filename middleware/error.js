@@ -25,4 +25,4 @@ const errorHandler = (err, req, res, next)=>{
     })
 }
 
-modelue.exports = errorHandler;
+module.exports = errorHandler;
