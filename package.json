@@ -19,5 +19,15 @@
     "mongoose": "^8.2.2",
     "morgan": "^1.10.0",
     "nodemon": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-it-all/jobPortal-Backend.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/code-it-all/jobPortal-Backend/issues"
+  },
+  "homepage": "https://github.com/code-it-all/jobPortal-Backend#readme"
 }
